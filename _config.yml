@@ -40,11 +40,11 @@ features                                  :
     
   - title                                 : 图片卡片
     description                           : 保存图片，记录美好瞬间
-    fontawesome_icon_name                 : picture
+    fontawesome_icon_name                 : image
 
   - title                                 : 视频卡片
     description                           : 保存动态的美丽
-    fontawesome_icon_name                 : facetime-video
+    fontawesome_icon_name                 : video
 
   - title                                 : 账密卡片
     description                           : 再也不用记密码了
@@ -76,7 +76,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#333333"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
